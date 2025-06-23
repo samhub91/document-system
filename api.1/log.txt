@@ -1,0 +1,146 @@
+nullnullRAW: 
+DECODED: null
+RAW: 
+DECODED: null
+RAW: {
+  "name": "Test User",
+  "phone": "0712345678",
+  "id_number": "12345678",
+  "service": "dlRecordUpdates",
+  "service_type": "updateRecord",
+  "comment": "This is a test from Postman"
+}
+
+DECODED: {"name":"Test User","phone":"0712345678","id_number":"12345678","service":"dlRecordUpdates","service_type":"updateRecord","comment":"This is a test from Postman"}
+RAW: 
+DECODED: null
+RAW: 
+DECODED: null
+RAW: 
+DECODED: null
+RAW: {"name":"now ","phone":"0987654","id_number":"34567","service":"dlRecordUpdates","service_type":"updateRecord","comment":"oik","serial_number":"SER-1750230908515-489"}
+DECODED: {"name":"now ","phone":"0987654","id_number":"34567","service":"dlRecordUpdates","service_type":"updateRecord","comment":"oik","serial_number":"SER-1750230908515-489"}
+RAW: 
+DECODED: null
+RAW: {"name":"james","phone":"01123456","id_number":"2345446","service":"caveat","service_type":"liftingCaveat","comment":"caveat","serial_number":"SER-1750231715356-550"}
+DECODED: {"name":"james","phone":"01123456","id_number":"2345446","service":"caveat","service_type":"liftingCaveat","comment":"caveat","serial_number":"SER-1750231715356-550"}
+RAW: 
+DECODED: null
+RAW: {"name":"kamau","phone":"9876543","id_number":"24266575","service":"dlRecordUpdates","service_type":"updateRecord","comment":"ok starting","serial_number":"SER-1750233835213-968"}
+DECODED: {"name":"kamau","phone":"9876543","id_number":"24266575","service":"dlRecordUpdates","service_type":"updateRecord","comment":"ok starting","serial_number":"SER-1750233835213-968"}
+RAW: 
+DECODED: null
+RAW: {"name":"wrong","phone":"0987654","id_number":"12345","service":"dlRecordUpdates","service_type":"updateRecord","comment":"try","serial_number":"SER-1750234030353-746"}
+DECODED: {"name":"wrong","phone":"0987654","id_number":"12345","service":"dlRecordUpdates","service_type":"updateRecord","comment":"try","serial_number":"SER-1750234030353-746"}
+RAW: 
+DECODED: null
+RAW: {"name":"nice","phone":"01234563","id_number":"3422532","service":"dlRecordUpdates","service_type":"updateRecord","comment":"u","serial_number":"SER-1750235774771-639"}
+DECODED: {"name":"nice","phone":"01234563","id_number":"3422532","service":"dlRecordUpdates","service_type":"updateRecord","comment":"u","serial_number":"SER-1750235774771-639"}
+RAW: 
+DECODED: null
+RAW: 
+DECODED: null
+RAW: {"name":"serial","phone":"094838534","id_number":"3345345345","service":"dlRecordUpdates","service_type":"updateRecord","comment":"first","serial_number":"SER-1750249877412-389"}
+DECODED: {"name":"serial","phone":"094838534","id_number":"3345345345","service":"dlRecordUpdates","service_type":"updateRecord","comment":"first","serial_number":"SER-1750249877412-389"}
+RAW: 
+DECODED: null
+RAW: {"name":"serial","phone":"0999238823","id_number":"2347897","service":"dlRecordUpdates","service_type":"updateRecord","comment":"first","serial_number":"SER-1750250086902-741"}
+DECODED: {"name":"serial","phone":"0999238823","id_number":"2347897","service":"dlRecordUpdates","service_type":"updateRecord","comment":"first","serial_number":"SER-1750250086902-741"}
+RAW: 
+DECODED: null
+RAW: {"name":"serial","phone":"9234835","id_number":"345352341","service":"dlRecordUpdates","service_type":"updateRecord","comment":"nah","serial_number":"SER-1750250241380-151"}
+DECODED: {"name":"serial","phone":"9234835","id_number":"345352341","service":"dlRecordUpdates","service_type":"updateRecord","comment":"nah","serial_number":"SER-1750250241380-151"}
+RAW: 
+DECODED: null
+RAW: {"name":"serial","phone":"9234835","id_number":"345352341","service":"dlRecordUpdates","service_type":"updateRecord","comment":"nah","serial_number":"SER-1750250250064-792"}
+DECODED: {"name":"serial","phone":"9234835","id_number":"345352341","service":"dlRecordUpdates","service_type":"updateRecord","comment":"nah","serial_number":"SER-1750250250064-792"}
+RAW: 
+DECODED: null
+RAW: {"name":"serial","phone":"9234835","id_number":"345352341","service":"dlRecordUpdates","service_type":"updateRecord","comment":"nah","serial_number":"SER-1750250360493-995"}
+DECODED: {"name":"serial","phone":"9234835","id_number":"345352341","service":"dlRecordUpdates","service_type":"updateRecord","comment":"nah","serial_number":"SER-1750250360493-995"}
+RAW: 
+DECODED: null
+RAW: {"name":"alice","phone":"0746588941","id_number":"2345432","service":"dlRecordUpdates","service_type":"updateRecord","comment":"dfgh","serialNumber":"SER-1750247797567-102"}
+DECODED: {"name":"alice","phone":"0746588941","id_number":"2345432","service":"dlRecordUpdates","service_type":"updateRecord","comment":"dfgh","serialNumber":"SER-1750247797567-102"}
+RAW: 
+DECODED: null
+RAW: {"phone":"073456724","service":"addOrganization","serialNumber":"NTSA-2025-06-18-013"}
+DECODED: {"phone":"073456724","service":"addOrganization","serialNumber":"NTSA-2025-06-18-013"}
+RAW: 
+DECODED: null
+RAW: {"phone":"073456724","service":"addOrganization","serialNumber":"NTSA-2025-06-18-013"}
+DECODED: {"phone":"073456724","service":"addOrganization","serialNumber":"NTSA-2025-06-18-013"}
+RAW: 
+DECODED: null
+RAW: {"phone":"073456724","service":"addOrganization","serialNumber":"NTSA-2025-06-18-013"}
+DECODED: {"phone":"073456724","service":"addOrganization","serialNumber":"NTSA-2025-06-18-013"}
+RAW: 
+DECODED: null
+RAW: {"phone":"073456724","service":"addOrganization","serialNumber":"NTSA-2025-06-18-013"}
+DECODED: {"phone":"073456724","service":"addOrganization","serialNumber":"NTSA-2025-06-18-013"}
+RAW: {"phone":"073456724","service":"addOrganization","serialNumber":"NTSA-2025-06-18-013"}
+DECODED: {"phone":"073456724","service":"addOrganization","serialNumber":"NTSA-2025-06-18-013"}
+RAW: 
+DECODED: null
+RAW: {"phone":"246435241","service":"dlRecordUpdates","serialNumber":"NTSA-2025-06-18-013"}
+DECODED: {"phone":"246435241","service":"dlRecordUpdates","serialNumber":"NTSA-2025-06-18-013"}
+RAW: 
+DECODED: null
+RAW: {"phone":"246435241","service":"dlRecordUpdates","serialNumber":"NTSA-2025-06-18-013"}
+DECODED: {"phone":"246435241","service":"dlRecordUpdates","serialNumber":"NTSA-2025-06-18-013"}
+RAW: 
+DECODED: null
+RAW: {"name":"elon","phone":"246435241","id_number":"23456","service":"dlRecordUpdates","service_type":"updateRecord","comment":"245364","serialNumber":"NTSA-2025-06-18-013"}
+DECODED: {"name":"elon","phone":"246435241","id_number":"23456","service":"dlRecordUpdates","service_type":"updateRecord","comment":"245364","serialNumber":"NTSA-2025-06-18-013"}
+RAW: 
+DECODED: null
+RAW: {"name":"mark","phone":"0987654321","id_number":"345678","service":"addOrganization","service_type":"add","comment":"ntsa","serialNumber":"NTSA-2025-06-19-014"}
+DECODED: {"name":"mark","phone":"0987654321","id_number":"345678","service":"addOrganization","service_type":"add","comment":"ntsa","serialNumber":"NTSA-2025-06-19-014"}
+RAW: 
+DECODED: null
+RAW: {"name":"bezos","phone":"09876543234","id_number":"3456787654","service":"addOrganization","service_type":"add","comment":"trial","serialNumber":"NTSA-2025-06-19-015"}
+DECODED: {"name":"bezos","phone":"09876543234","id_number":"3456787654","service":"addOrganization","service_type":"add","comment":"trial","serialNumber":"NTSA-2025-06-19-015"}
+RAW: 
+DECODED: null
+RAW: {"name":"go","phone":"453","id_number":"34","service":"forcedTransfer","service_type":"transferByCourtOrder","comment":"erty","serialNumber":"NTSA-2025-06-19-016"}
+DECODED: {"name":"go","phone":"453","id_number":"34","service":"forcedTransfer","service_type":"transferByCourtOrder","comment":"erty","serialNumber":"NTSA-2025-06-19-016"}
+RAW: 
+DECODED: null
+RAW: {"name":"zuckerberg","phone":"37642093","id_number":"32456","service":"dlRecordUpdates","service_type":"updateRecord","comment":"bilions","serialNumber":"NTSA-2025-06-19-017"}
+DECODED: {"name":"zuckerberg","phone":"37642093","id_number":"32456","service":"dlRecordUpdates","service_type":"updateRecord","comment":"bilions","serialNumber":"NTSA-2025-06-19-017"}
+RAW: 
+DECODED: null
+RAW: {"name":"san","phone":"084354635","id_number":"324532","service":"dlRecordUpdates","service_type":"updateRecord","comment":"change","serialNumber":"NTSA-2025-06-19-018"}
+DECODED: {"name":"san","phone":"084354635","id_number":"324532","service":"dlRecordUpdates","service_type":"updateRecord","comment":"change","serialNumber":"NTSA-2025-06-19-018"}
+RAW: 
+DECODED: null
+RAW: {"name":"tin","phone":"0823823812","id_number":"3245323","service":"dlRecordUpdates","service_type":"updateRecord","comment":"one document","serialNumber":"NTSA-2025-06-19-019"}
+DECODED: {"name":"tin","phone":"0823823812","id_number":"3245323","service":"dlRecordUpdates","service_type":"updateRecord","comment":"one document","serialNumber":"NTSA-2025-06-19-019"}
+RAW: 
+DECODED: null
+RAW: {"name":"centre","phone":"071234523","id_number":"11245543","service":"dlRecordUpdates","service_type":"updateRecord","comment":"go","serialNumber":"NTSA-2025-06-19-020"}
+DECODED: {"name":"centre","phone":"071234523","id_number":"11245543","service":"dlRecordUpdates","service_type":"updateRecord","comment":"go","serialNumber":"NTSA-2025-06-19-020"}
+RAW: 
+DECODED: null
+RAW: {"name":"gordon","phone":"07235674934","id_number":"2431234","service":"dlRecordUpdates","service_type":"updateRecord","comment":"first form","serialNumber":"NTSA-2025-06-19-021","checked_documents":["Fill form.","Provide proof of identification."]}
+DECODED: {"name":"gordon","phone":"07235674934","id_number":"2431234","service":"dlRecordUpdates","service_type":"updateRecord","comment":"first form","serialNumber":"NTSA-2025-06-19-021","checked_documents":["Fill form.","Provide proof of identification."]}
+RAW: 
+DECODED: null
+RAW: {"name":"hen","phone":"0987723485","id_number":"234524","service":"dlRecordUpdates","service_type":"updateRecord","comment":"only one form","serialNumber":"NTSA-2025-06-19-022","checked_documents":["Fill form."]}
+DECODED: {"name":"hen","phone":"0987723485","id_number":"234524","service":"dlRecordUpdates","service_type":"updateRecord","comment":"only one form","serialNumber":"NTSA-2025-06-19-022","checked_documents":["Fill form."]}
+RAW: 
+DECODED: null
+RAW: {"name":"stage","phone":"09876456723","id_number":"2343542","service":"dlRecordUpdates","service_type":"updateRecord","comment":"two documents submitted","serialNumber":"NTSA-2025-06-19-023","checked_documents":["Fill form.","Provide proof of identification."],"document_stage":{"Submitted":true,"In-Review":false,"Processed":false,"Collected":false}}
+DECODED: {"name":"stage","phone":"09876456723","id_number":"2343542","service":"dlRecordUpdates","service_type":"updateRecord","comment":"two documents submitted","serialNumber":"NTSA-2025-06-19-023","checked_documents":["Fill form.","Provide proof of identification."],"document_stage":{"Submitted":true,"In-Review":false,"Processed":false,"Collected":false}}
+RAW: 
+DECODED: null
+RAW: {"name":"tracking","phone":"083451","id_number":"2356534","service":"forcedTransfer","service_type":"diplomatToEmbassy","comment":"mmmh","serialNumber":"NTSA-2025-06-19-024","checked_documents":["Request Letter (written by Embassy/mission).","Form A approved by ministry.","Form C approved by ministry."],"document_stage":{"Submitted":true,"In-Review":false,"Processed":false,"Collected":false}}
+DECODED: {"name":"tracking","phone":"083451","id_number":"2356534","service":"forcedTransfer","service_type":"diplomatToEmbassy","comment":"mmmh","serialNumber":"NTSA-2025-06-19-024","checked_documents":["Request Letter (written by Embassy\/mission).","Form A approved by ministry.","Form C approved by ministry."],"document_stage":{"Submitted":true,"In-Review":false,"Processed":false,"Collected":false}}
+RAW: 
+DECODED: null
+RAW: {"name":"ruffo","phone":"09876543","id_number":"34556768789","service":"forcedTransfer","service_type":"bankRepossession","comment":"only two","serialNumber":"NTSA-2025-06-19-025","checked_documents":["Tender documents for tendered motor vehicle.","Certificate of sale."],"document_stage":{"Submitted":true,"In-Review":false,"Processed":false,"Collected":false}}
+DECODED: {"name":"ruffo","phone":"09876543","id_number":"34556768789","service":"forcedTransfer","service_type":"bankRepossession","comment":"only two","serialNumber":"NTSA-2025-06-19-025","checked_documents":["Tender documents for tendered motor vehicle.","Certificate of sale."],"document_stage":{"Submitted":true,"In-Review":false,"Processed":false,"Collected":false}}
+RAW: 
+DECODED: null
+RAW: {"name":"started","phone":"09854567654","id_number":"567","service":"reRegistration","service_type":"civilianVehicleReRegistration","comment":"mmh\n","serialNumber":"NTSA-2025-06-19-026","checked_documents":["DCI report on the owner.","KRA PIN of the motor vehicle owner."],"document_stage":{"Submitted":true,"In-Review":false,"Processed":false,"Collected":false}}
+DECODED: {"name":"started","phone":"09854567654","id_number":"567","service":"reRegistration","service_type":"civilianVehicleReRegistration","comment":"mmh\n","serialNumber":"NTSA-2025-06-19-026","checked_documents":["DCI report on the owner.","KRA PIN of the motor vehicle owner."],"document_stage":{"Submitted":true,"In-Review":false,"Processed":false,"Collected":false}}
